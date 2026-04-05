@@ -3,7 +3,7 @@
 A Myntra homepage clone built using HTML & CSS.
 
 ## 🔗 Live Demo
-(Add your Vercel link here)
+https://shantanukatiyar.netlify.app/
 
 ## 🚀 Features
 - Navbar
